@@ -2,9 +2,9 @@
 
 
 - 🔭 I’m currently working on [Peeljobs](https://peeljobs.com/)
-- 🌱 I’m currently learning Microsoft Azure
+- 🌱 I’m currently learning Devops
 - 👯 I’m looking to collaborate on Github
-- 🤔 I’m looking for help with Data Science
+- 🤔 I’m looking for help with Microsoft Azure
 - 💬 Ask me about nothing!!!
 - 📫 How to reach me: +919439034452
 - ⚡ Fun fact: Everything!!!
