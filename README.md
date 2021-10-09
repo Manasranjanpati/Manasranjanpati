@@ -33,7 +33,7 @@
 
 ---
 
-[website]: https://manasranjanpati.netlify.app
+[website]: https://manasranjanpati.in
 [twitter]: https://twitter.com/Iam_manas
 [instagram]: https://instagram.com/manasranjanpati
 [linkedin]: https://linkedin.com/in/manas-ranjan-pati-0969009a
