@@ -32,7 +32,7 @@
 <!-- <img align="center" src="https://github-readmestats.vercel.app/api?username=manasranjanpati&show_icons=true&include_all_commits=true&theme=radical" alt="Manas's github stats" /> -->
 
 
-![Manas's Github stats](https://github-readme-stats.vercel.app/api?username=Manasranjanpati&theme=dark&show_icons=true)
+![Manas's Github stats](https://github-readme-stats.vercel.app/api?username=Manasranjanpati&theme=great-gatsby&show_icons=true)
 
 
 ---
