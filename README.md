@@ -1,8 +1,8 @@
 ### Hi there this is [Manas!][website]👋
 
 
-- 🔭 I’m currently working on NAF Msuite
-- 🌱 I’m currently learning Data Science/Devops
+- 🔭 I’m currently working as a Devops Engineer
+- 🌱 I’m currently learning Azure
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with Microsoft Azure
 - 💬 Ask me about nothing!!!
