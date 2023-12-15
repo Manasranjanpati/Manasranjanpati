@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as a Software Engineer<br>- 📚 I'm currently learning Kubernetes<br>- ⚡ In my free time I do small projects / Read books</p>
+<p align="left">I'm from INDIA <br><br>- 🔭 I’m working as a Software Engineer<br>- 📚 I'm currently learning Kubernetes<br>- ⚡ In my free time I do small projects / Read books</p>
 
 ###
 
