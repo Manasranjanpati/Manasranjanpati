@@ -1,73 +1,32 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+# Hi, I'm Manas 👋
 
-###
+I'm a passionate **Software Engineer** from **India** with a focus on building scalable and efficient solutions. My expertise lies in **Cloud Service Architecture**, **Application Development**, **Python Programming**, **CI/CD**, **Agile Methodologies**, and **DevOps Tools**. I love tackling complex problems and delivering high-quality software that drives impact.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/manas-ranjan-pati-0969009a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/Iam_manas" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/manasranjanpati/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
+## 🔧 Skills & Expertise
+- **Cloud Service Architecture**: Designing and implementing scalable cloud solutions (AWS, Azure, GCP).
+- **Application Development**: Building robust, user-centric applications with modern frameworks.
+- **Python Programming**: Proficient in writing clean, efficient, and modular Python code.
+- **CI/CD**: Streamlining development pipelines with tools like Jenkins, GitHub Actions, and GitLab CI.
+- **Agile Methodologies**: Experienced in Scrum and Kanban for collaborative and iterative development.
+- **DevOps Tools**: Skilled in Docker, Kubernetes, Terraform, and Ansible for infrastructure automation.
 
-###
+## 🌟 What I'm Working On
+- Exploring advanced cloud-native architectures and serverless computing.
+- Contributing to open-source projects in the Python and DevOps ecosystems.
+- Enhancing CI/CD workflows to optimize deployment cycles.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Manasranjanpati.Manasranjanpati&right_color=maroon"  />
-</div>
+## 📫 Get in Touch
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="20">](https://www.linkedin.com/in/manas-ranjan-pati-0969009a/)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white" alt="Twitter/X" height="20">](https://x.com/manuspati)
+[<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="20">](mailto:manasranjanpati@outlook.com)
+<!-- [<img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=internet-explorer&logoColor=white" alt="Portfolio" height="20">]([YourPortfolio/Website]) -->
 
-###
+<!--
+## ⚡ Fun Fact
+When I'm not coding, you can find me [insert hobby, e.g., exploring new tech, hiking, or binge-watching sci-fi series].
+-->
 
-<h1 align="center">Vande Mataram 🇮🇳</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm from INDIA <br><br>- 🔭 I’m working as a Software Engineer<br>- 📚 I'm currently learning Kubernetes<br>- ⚡ In my free time I do small projects / Read books</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
+## 📊 My GitHub Stats
 ###
 
 <br clear="both">
